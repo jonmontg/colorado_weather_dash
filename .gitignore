@@ -1,3 +1,4 @@
-cache/*
+cache/observations.json
+cache/stations.json
 **/__pycache__/**
 venv
